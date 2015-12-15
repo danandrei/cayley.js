@@ -1,6 +1,7 @@
 # Logs
 logs
 *.log
+log.txt
 
 # Runtime data
 pids
@@ -25,3 +26,8 @@ build/Release
 # Dependency directory
 # https://www.npmjs.org/doc/misc/npm-faq.html#should-i-check-my-node_modules-folder-into-git
 node_modules
+
+# Other
+.DS_Store
+*~
+*.swp
